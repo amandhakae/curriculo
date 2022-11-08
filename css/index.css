@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(165, 140, 118);
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-color: black;
+
+}
+.left{
+    width: 20%;
+    float: left;
+    background-color: rgb(207, 185, 155);
+}
+
+.right{
+    width: 80%;
+    float: right;
+    background-color: rgb(207, 185, 155);
+}
